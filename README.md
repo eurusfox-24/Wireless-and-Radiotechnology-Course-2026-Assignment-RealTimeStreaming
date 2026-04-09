@@ -34,10 +34,8 @@ The viewer was able to successfully watch the live stream. The web browser conne
 
 ## Proof of Execution
 
-*(Replace the placeholder links below with your actual screenshot files before committing)*
-
 ### 1. Flask Server Running on Sender
-![Flask Server Running](path/to/your/flask_terminal_screenshot.png)
+![Flask Server Running](LaptopA/flaskServerScreenshot.png)
 
 ### 2. Browser Stream Open on Viewer
 ![Live Browser Stream](LaptopA/camera_live_stream.jpeg)
