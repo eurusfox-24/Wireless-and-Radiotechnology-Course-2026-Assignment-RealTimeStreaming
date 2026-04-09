@@ -40,4 +40,4 @@ The viewer was able to successfully watch the live stream. The web browser conne
 ![Flask Server Running](path/to/your/flask_terminal_screenshot.png)
 
 ### 2. Browser Stream Open on Viewer
-![Live Browser Stream](LaptopA/camera live stream.jpeg)
+![Live Browser Stream](LaptopA/camera_live_stream.jpeg)
